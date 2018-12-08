@@ -1,0 +1,5 @@
+<html>
+<body>
+	Let's have some fun: <%= FunUtils.makeItLower("Fun fun fun") %>
+</body>
+</html>
